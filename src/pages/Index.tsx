@@ -85,9 +85,7 @@ const Index = () => {
         <div className="container mx-auto relative z-10">
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div className="space-y-6 animate-fade-in">
-              <h1 className="text-5xl md:text-6xl font-bold text-foreground leading-tight">
-                Профессиональная психологическая и психиатрическая помощь
-              </h1>
+              <h1 className="text-5xl md:text-6xl font-bold text-foreground leading-tight">Профессиональная психологическая помощь</h1>
               <p className="text-2xl text-muted-foreground">
                 с гарантией полной анонимности
               </p>
