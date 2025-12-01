@@ -115,9 +115,7 @@ const Index = () => {
               </div>
 
               <div className="pt-6">
-                <p className="text-3xl font-bold text-primary mb-6">
-                  Первичная консультация — от 3 500 рублей
-                </p>
+                <p className="text-3xl font-bold text-primary mb-6">Бесплатная первичная консультация</p>
                 <div className="flex gap-4">
                   <Button onClick={openWhatsApp} size="lg" className="bg-[#10B981] hover:bg-[#059669] text-white text-lg px-8">
                     <Icon name="MessageCircle" size={20} className="mr-2" />
