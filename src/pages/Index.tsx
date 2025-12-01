@@ -132,7 +132,7 @@ const Index = () => {
             <div className="relative">
               <div className="absolute inset-0 bg-gradient-to-br from-primary/20 to-accent/20 rounded-3xl blur-2xl"></div>
               <img
-                src="https://cdn.poehali.dev/projects/8c800ed5-f4bc-4178-b162-839f7a09c7a7/files/3ee045b0-0bb5-4f1a-bbb7-d82e63a0dcc0.jpg"
+                src="https://cdn.poehali.dev/files/e44b51d6-05cd-42b0-8017-89fe5dc2ca12.jpg"
                 alt="Профессиональный психолог"
                 className="relative rounded-3xl shadow-2xl w-full h-[600px] object-cover"
               />
